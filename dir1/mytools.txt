@@ -1,0 +1,14 @@
+1;;1;Genomics;"Genomics analysis including genomic assembly, SNP calling, and comparative genomics";;
+2;;1;Transcriptomics;"Transcriptomics analysis including transcriptom assembly, experession profiling, and comparative analysis";;
+3;;1;Troteomics;"Protein analysis including metabolic pathways, structural proteomics, and systems biology";;
+4;;1;Phylogenetics;"Phylogenetics analysis including multiple sequence analysis, model testing, and tree building";;
+5;;1;Genetics;All basic genetic analysis including phylogeography and classical genetics;;
+6;1;2;Quality control;"Quality control of the genomics datasets: trimming, cleaning, parsing";;
+7;1;2;Genome assembly;Various genomic assemblers and tools for evaluating quality of draft genomes;;
+8;1;2;SNP calling;Tools for variants calling - single nucleotide polymorphisms;;
+9;4;2;Multiple sequence alignment;Alignment of multiple nucleotidic and AA sequences;;
+10;4;2;Phylogeny building;Tools for reconstruction and dating of phylogenetics trees;;
+11;4;2;Substituion models;Analysis and comparison of various substitution models;;
+12;7;3;Edena;De novo short reads assembler for bacterial genomes;;
+13;12;4;Edena (overlapping mode);De novo short reads assembler for bacterial genomes which calculates overlap cutoffs according to the contextual coverage;1;1
+14;12;4;Edena (assembly mode);De novo short reads assembler for bacterial genomes which assembles  short reads into multiple contigs;2;1
